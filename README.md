@@ -1,15 +1,3 @@
-# 🚀 Welcome to your new awesome project!
+Ortex Login
 
-This project has been created using **webpack-cli**, you can now run
-
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
+This project is a technical test for ORTEX, a revolutionary global equity analytics platform which identifies and analyses relevant and important data for stocks. Here i show my abilities on React, building on login pages, passing props data and navigate throughout pages.
